@@ -1,3 +1,5 @@
 こんにちは
 飴を舐め
 ああ
+git add
+git commit
